@@ -113,8 +113,3 @@ DTO객체 생성 및 비밀번호 SHA-256 해시 처리 DAO 싱글톤 구현
 </details>
 
 </br>
-    
-</br>
-
-## 6. 회고 / 느낀점
->프로젝트 개발 회고 글: https://zuminternet.github.io/ZUM-Pilot-integer/
