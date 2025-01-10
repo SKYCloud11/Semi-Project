@@ -67,13 +67,13 @@ http://xn--9i1bs4kxmf1z6pdy7y.com/
 ![image](https://github.com/user-attachments/assets/1e897adc-7292-437b-ad5d-3816d7d975e5)</br>
 
 ### 1. 마이페이지 & 회원정보 수정
-![image](https://github.com/user-attachments/assets/d685396e-4e1b-4943-a4ab-bd80abc85b47)</br>
+![마이페이지](https://github.com/user-attachments/assets/3fe0ea4b-9c38-47b5-964e-20a038f1552f)</br>
 
 ### 1. 회원 탈퇴 모달
 ![image](https://github.com/user-attachments/assets/f0b48142-6944-4fba-9830-4bdd52e94a55)</br>
 
 ### 1. 회원 탈퇴 시 alert
-![image](https://github.com/user-attachments/assets/3c5f77ef-b1ca-4b6a-89a8-bc00b7119563)</br>
+![회원탈퇴](https://github.com/user-attachments/assets/951875ec-5b93-403e-a674-975f26cc4ec1)</br>
 
 </div>
 </details>
