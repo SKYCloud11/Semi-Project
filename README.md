@@ -55,10 +55,10 @@ http://xn--9i1bs4kxmf1z6pdy7y.com/
 ![image](https://github.com/user-attachments/assets/cadf68a6-e6e6-48dc-96db-480d0fc4b796)</br>
 
 ### 1. 아이디 찾기 페이지
-![image](https://github.com/user-attachments/assets/4bf0f1d7-6f61-4619-ac9a-97e8514da67a)</br>
+![아디찾기](https://github.com/user-attachments/assets/88c6dde6-8d82-469f-969d-7d54b9bddc32)</br>
 
 ### 1. 비밀번호 찾기 페이지
-![image](https://github.com/user-attachments/assets/6de5673c-b4c7-4a1b-8d15-a82e8c501619)</br>
+![비밀번호찾기임](https://github.com/user-attachments/assets/75459a77-b367-4b82-9036-15c895178088)</br>
 
 ### 1. 약관 동의 페이지
 ![image](https://github.com/user-attachments/assets/62b76270-3642-4d5c-b8b1-330b50645fbe)</br>
